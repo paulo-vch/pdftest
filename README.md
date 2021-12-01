@@ -1,2 +1,2 @@
 # pdftest
-# dunno, just testing, i'm a noob, u know
+# dunno, just testing, i'm a newbie, u know
